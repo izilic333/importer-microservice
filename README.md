@@ -38,7 +38,7 @@ Tech stack:
     - Postgres
     - PL/pgSQL
 
-Microservice dependencies on another project in cloud:
+Microservice dependencies on Django cloud project:
 
     - Django
     - Django ORM
