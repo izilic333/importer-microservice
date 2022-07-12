@@ -1,9 +1,9 @@
-from common.logging.setup import logger
+from importer.common.logging.setup import logger
 from unittest.mock import patch
 from unittest import TestCase
 
-from common.mixin import enum_errors
-from common.mixin.enum_errors import EnumValidationMessage as enum_msg
+from importer.common.mixin import enum_errors
+from importer.common.mixin.enum_errors import EnumValidationMessage as enum_msg
 
 
 class TestEnumErrors(TestCase):

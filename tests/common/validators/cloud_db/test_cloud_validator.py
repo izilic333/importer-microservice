@@ -7,14 +7,14 @@ from unittest import TestCase
 from unittest.mock import patch
 import pandas as pd
 
-from common.importers.cloud_db.planogram_helpers import PlanogramHandler, planogram_processor
-from common.mixin.enum_errors import EnumValidationMessage as Const
-from common.mixin.validation_const import get_import_type_by_name, ImportAction
-from common.validators.cloud_db.cloud_validator import (
+from importer.common.importers.cloud_db.planogram_helpers import PlanogramHandler, planogram_processor
+from importer.common.mixin.enum_errors import EnumValidationMessage as Const
+from importer.common.mixin.validation_const import get_import_type_by_name, ImportAction
+from importer.common.validators.cloud_db.cloud_validator import (
     FileOnCloudValidator, tax_rate_doesnt_exist, tax_rate_duplicates
 )
-from common.validators.csv.csv_validator import generate_elastic_process
-from database.cloud_database.core.query import (
+from importer.common.validators.csv.csv_validator import generate_elastic_process
+from importer.database.cloud_database.core.query import (
     PlanogramQueryOnCloud, ProductQueryOnCloud, CustomUserQueryOnCloud,
     ProductRotationGroupQueryOnCloud)
 
