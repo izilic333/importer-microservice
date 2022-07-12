@@ -1,3 +1,0 @@
-2022-07-12 00:35:46,594 application  ERROR     Elastic error update process: TransportError(409, 'version_conflict_engine_exception', '[company_process][45d36c18feb746f9830bbc0a613bef18]: version conflict, current version [9] is different than the one provided [8]')
-2022-07-12 00:35:46,726 application  INFO      Database validation finished with success: /home/ivan/Documents/projects/importer/ftp_files/history_files/success/1_207043aff3d8f37aff4710b880fdc121107728bf6d606bb9da5bec7cd03e99a2$region_import_file.csv
-2022-07-12 00:35:46,786 application  INFO      Process publish to Q, type_of_process: REGIONS, company_id: 1
