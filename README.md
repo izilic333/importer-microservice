@@ -7,25 +7,31 @@ Project description:
 This service solves the specific problem of importing data into the database. 
 There is a high validation level of imported data and interdependencies between the relationships of individual tables in the database.
 This service handle different and complex relatsions betwen DB tables:
+
     - One-To-One Relationship
     - One-To-Many Relationship
     - Many-To-Many Relationship
+    
 The microservice communicates with a core Django application defined in the cloud.
 The microservice receives specific CSV files and imports certain entities into the database.
 There is a substantial interdependence between imported entities concerning mandatory fields and specific imported content.
 This microservice solves the problem and needs of a specific company, and customers of that company expressed a desire to import data into the database using CSV file.
 
 This service imports large amounts of data adapted simply for the end-users of this company.
+
 About service:
-    - handle import for a various entities with high DB relations of each other
-        - some different DB tables for import (machines, machine types, locations, regions, products, planograms, clients, users, packings)
-    - for some complex import types, this service can build predefined structured entities for the database actions like insert, update, delete, in one            transaction using the specific functions on the postgres database.
-    - this service uses elasticsearch to log all validation actions, which is finally displayed to the end-user as an import result for each of the imported entries.
-    - The service has its scheduler for importing data into DB so that the end-user can put some CSV data into specific FTP, and this service
-    will periodically import this data into DB.
-    - There is UI configuration for scheduler import per specific import type 
+
+- handle import for a various entities with high DB relations of each other
+    - some different DB tables for import (machines, machine types, locations, regions, products, planograms, clients, users, packings)
+- for some complex import types, this service can build predefined structured entities for the database actions like insert, update, delete, in one         transaction using the specific functions on the postgres database.
+- this service uses elasticsearch to log all validation actions, which is finally displayed to the end-user as an import result for each of the 
+  imported entries.
+- The service has its scheduler for importing data into DB so that the end-user can put some CSV data into specific FTP, and this service
+  will periodically import this data into DB.
+- There is UI configuration for scheduler import per specific import type 
 
 Tech stack:
+
     - Flask
     - RabbitMQ
     - Elasticsearch
@@ -35,6 +41,7 @@ Tech stack:
     - PL/pgSQL
 
 Microservice dependencies on another project in cloud:
+
     - Django
     - Django ORM
     - Django celery
