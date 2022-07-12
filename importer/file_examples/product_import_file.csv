@@ -1,0 +1,2 @@
+product_name,product_id,product_action,price,tax_rate,product_category_id,default_barcode,barcode1,barcode2,barcode3,barcode4,weight,use_packing,description,short_shelf_life,age_verification,capacity,minimum_route_pickup,blacklisted
+BELVITA CHOCOLAT 50GR X34,B449,1,10.33,5.55,13,ABC123,,,,,0.05,1,Belvita Dark Chocolate Bar,120,100,8,0,0

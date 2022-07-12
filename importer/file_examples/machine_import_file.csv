@@ -1,0 +1,5 @@
+machine_name,machine_id,machine_action,machine_location_id,machine_type_id,client_id,installation_date,model_number,tags,description,recommended_visit,urgent_visit,raise_event_on_undefined_column,cluster_id,routing,stock_tracking,events_tracking,no_cash_alarm,no_cashless_1_alarm,no_cashless_2_alarm,no_cashless_3_alarm,no_sales_alarm,location_warehouse_id,machine_category_id
+Necta Fontana Trevi,nectatrev1,0,trevi,comboa,,2017-09-05,12345678,prima#seconda,Macchina combo - Fontana Trevi,7,15,1,rome1,1,1,1,10:30,10:20,11:30,11:37,11:39,LW112,MC99
+Necta Museo Civico,museocivico1,0,museocivico,cofeea,,2017-09-05,12345678,prima#seconda,Macchina cafee- nel Museo Civico,7,15,1,rome2,1,1,1,11:30,10:23,11:33,11:38,11:35,LW113,MC100
+Necta Posta Piazza Fernando,postafernando,0,ufficiopostale1,comboa,,2017-09-05,12345678,prima#seconda#terca,Machina combo - Posta Fernando 1,7,15,1,rome2,1,1,1,01:30,10:50,11:34,11:39,11:35,LW114,MC101
+Necta Cinema Teatro I 4 Mori,cinemamori,0,cinemamori,snacka,,2017-09-05,12345678,destra#sinistra,Macchina spuntino - Cinema Teatro I 4,7,15,1,livorno,1,1,1,08:30,10:51,11:35,11:40,11:36,LW115,MC102

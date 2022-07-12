@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "port": 5672,
+    "username": "guest",
+    "password": "guest",
+    "rabbit_url": "http://127.0.0.1:15672/api/queues/%2F/{}/get"
+}

@@ -1,0 +1,5 @@
+{
+"master_data_basepath": "~/apps/importer/log",
+"vends_basepath": "~/apps/importer/log/vend",
+"importer": "~/apps/importer"
+}

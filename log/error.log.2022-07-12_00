@@ -1,0 +1,10 @@
+2022-07-12 02:16:24,640 application  ERROR    Local connection context manager exception -> (psycopg2.errors.AdminShutdown) terminating connection due to administrator command
+server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+[SQL: SELECT cloud_company.id, cloud_company.company_id, cloud_company.company_name, cloud_company.created_at, cloud_company.updated_at 
+FROM cloud_company 
+WHERE cloud_company.company_id = %(company_id_1)s]
+[parameters: {'company_id_1': '1'}]
+(Background on this error at: http://sqlalche.me/e/13/e3q8)

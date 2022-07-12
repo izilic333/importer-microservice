@@ -1,0 +1,6 @@
+{
+    "host": "localhost",
+    "port": 9200,
+    "index_vend": "index_vend-",
+    "import_index_prefix": "import_index-"
+}

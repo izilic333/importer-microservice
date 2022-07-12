@@ -1,0 +1,16 @@
+{
+    "main_dir": "ftp_files",
+    "work": "work",
+    "zip_working_dir": "zip_working_dir",
+    "history": "history_files",
+    "history_success": "success",
+    "history_fail": "fail",
+    "download_history": "download_history",
+    "main_vend_dir": "vend_files",
+    "vend_work": "work",
+    "vends_zip_working_dir": "zip_working_dir",
+    "vend_history": "history_files",
+    "vend_success_history": "success",
+    "vend_fail_history": "fail",
+    "vend_downloads_dir": "downloads"
+}

@@ -1,0 +1,11 @@
+{
+    "PLANOGRAMS": 5,
+    "MACHINES": 3,
+    "LOCATIONS": 2,
+    "PRODUCTS": 2,
+    "USERS": 1,
+    "REGIONS": 1,
+    "MACHINE_TYPES": 1,
+    "PACKINGS": 1,
+    "CLIENTS": 1
+}

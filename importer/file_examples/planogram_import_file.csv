@@ -1,0 +1,4 @@
+planogram_name,planogram_id,planogram_action,product_warning_percentage,component_warning_percentage,mail_notification,multiple_pricelists,column_number,recipe_id,tags,capacity,warning,fill_rate,price_1,price_2,product_id,product_rotation_group_id,minimum_route_pickup
+Planogram_1,5488777,0,5,9,1,2,1,,test1,1,1,1,5,,codealsdl,,3
+Planogram_1,5488777,0,5,9,1,2,2,,test2,1,1,1,6,,codealsdl,,3
+Planogram_1,5488777,0,5,9,1,2,3,,test3,1,1,1,7,,codealsdl,,3

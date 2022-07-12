@@ -1,0 +1,3 @@
+user_action;user_id;first_name;last_name;email;user_role;timezone;phone;language;service_email_notification;service_sms_notification;service_staff_mobile_app;service_staff_mobile_technical_view;assign_filling_route;assign_event
+0;USER_1;John;Doe;john.doe@example.hr;Filler;Europe/Zagreb;+385654654654;en;false;false;false;false;false;false
+0;USER_2;Jane;Doe;jane.doe@example.hr;CompanyManager;Europe/Zagreb;+385123456789;en;false;false;false;false;false;false

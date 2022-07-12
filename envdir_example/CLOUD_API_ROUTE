@@ -1,0 +1,6 @@
+{
+    "machine": "/api/v2/importer/machines",
+    "region": "/api/v2/importer/regions",
+    "location": "/api/v2/importer/locations",
+    "machine_type": "/api/v2/importer/machine_type"
+}

@@ -1,0 +1,6 @@
+{
+    "importer_database": "postgresql://televend:televend@localhost/importer",
+    "cloud_database": "postgresql://televend:televend@localhost/postgres",
+    "test": true,
+    "importer_db_test": ""
+}

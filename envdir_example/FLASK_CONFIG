@@ -1,0 +1,9 @@
+{
+    "debug": true,
+    "amqp_uri": "amqp://guest:guest@localhost",
+    "host": "localhost",
+    "port": 5000,
+    "use_debugger": true,
+    "use_reloader": true,
+    "token_generator": "-%76lw4fv9oom1y-gy9%az1vu1p1ke%5urrq5m1=%b9#7zilh!"
+}

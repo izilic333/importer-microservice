@@ -1,0 +1,5 @@
+location_name;location_id;location_action;location_address;region_id;longitude;latitude;phone;email;description;working_days;working_hours
+Fontana di Trevi;trevi;0;Piazza di Trev1 1, Rome;municipio1;;;+39XXXXXXXXX;trevi@ditta1.com;Fontana di Trevi;1111100;08:00-15:00#17:00-21:00
+Museo Civico di Zoologia;museocivico;0;Via Ulisse Aldrovandi, Rome;municipio2;;;+39XXXXXXXXX;museocivico@ditta1.com;Museo Civico di Zoologia;1111100;08:00-15:00
+Ufficio Postale Piazza Fernando;ufficiopostale1;0;Piazza Fernando de Lucia, Rome;municipio3;;;++39XXXXXXXXX;ufficiopostalle1@ditta1.com;Ufficio Postale Piazza Fernando;1111100;07:00-23:00
+Cinema teatro I 4 Mori;cinemamori;0;Via Pietro Tacca 16, Livorno;livorno;;;++39XXXXXXXXX;cinemamori@firma.com;Cinema teatro I 4 Mori;1111100;07:00-23:00

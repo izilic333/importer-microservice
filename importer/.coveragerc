@@ -1,0 +1,24 @@
+[run]
+omit =
+    # omit virtual environment
+    */.virtualenvs/*
+
+[report]
+# Regexes for lines to exclude from consideration
+exclude_lines =
+    # Put comment with this pragma line to skip parts of code from testing
+    pragma: no cover
+
+    def __repr__
+    if self\.debug
+
+    raise AssertionError
+    raise NotImplementedError
+
+    if 0:
+    if __name__ == .__main__.:
+
+ignore_errors = True
+
+[html]
+directory = htmlcov

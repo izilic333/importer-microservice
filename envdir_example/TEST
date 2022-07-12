@@ -1,0 +1,10 @@
+{
+    "company_id": 7,
+    "ftp_home": "",
+    "ftp_host":"127.0.0.1",
+    "test_log": "true",
+    "password": "foo",
+    "user_id": 306,
+    "username": "pass",
+    "active": false
+}

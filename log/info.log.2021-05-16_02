@@ -1,0 +1,25 @@
+2021-05-16 11:37:09,974 application  INFO      All company for user: [1] Company requested 1
+2021-05-16 11:37:09,977 application  INFO      File API is starting to fetch results from company: 1 import type regions
+2021-05-16 11:37:09,983 application  INFO      Elastic response: {'message': 'No data for company: 1', 'status': False, 'results': []}
+2021-05-16 11:37:09,984 application  INFO      Type of process: chrome
+2021-05-16 11:37:10,103 application  INFO      Process publish to Q: region_import_file.csv
+2021-05-16 11:41:57,926 application  INFO      All company for user: [1] Company requested 1
+2021-05-16 11:41:57,928 application  INFO      File API is starting to fetch results from company: 1 import type machines
+2021-05-16 11:41:57,938 application  INFO      Elastic response: {'message': 'No data for company: 1', 'status': False, 'results': []}
+2021-05-16 11:41:57,939 application  INFO      Type of process: chrome
+2021-05-16 11:41:58,026 application  INFO      Process publish to Q: machine_import_file.csv
+2021-05-16 11:44:16,937 application  INFO      All company for user: [1] Company requested 1
+2021-05-16 11:44:16,939 application  INFO      File API is starting to fetch results from company: 1 import type planograms
+2021-05-16 11:44:16,946 application  INFO      Elastic response: {'message': 'No data for company: 1', 'status': False, 'results': []}
+2021-05-16 11:44:16,946 application  INFO      Type of process: chrome
+2021-05-16 11:44:16,997 application  INFO      Process publish to Q: planogram_import_file.csv
+2021-05-16 11:44:42,263 application  INFO      All company for user: [1] Company requested 1
+2021-05-16 11:44:42,266 application  INFO      File API is starting to fetch results from company: 1 import type planograms
+2021-05-16 11:44:42,271 application  INFO      Elastic response: {'message': 'No data for company: 1', 'status': False, 'results': []}
+2021-05-16 11:44:42,271 application  INFO      Type of process: chrome
+2021-05-16 11:44:42,382 application  INFO      Process publish to Q: planogram_import_file.csv
+2021-05-16 11:45:20,622 application  INFO      All company for user: [1] Company requested 1
+2021-05-16 11:45:20,623 application  INFO      File API is starting to fetch results from company: 1 import type planograms
+2021-05-16 11:45:20,631 application  INFO      Elastic response: {'message': 'No data for company: 1', 'status': False, 'results': []}
+2021-05-16 11:45:20,631 application  INFO      Type of process: chrome
+2021-05-16 11:45:20,679 application  INFO      Process publish to Q: planogram_import_file.csv

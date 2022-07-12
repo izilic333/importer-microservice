@@ -1,0 +1,7 @@
+region_name;region_id;region_action;parent_region_id
+Italia;italia;0;
+Roma;rome;0;italia
+Municipio I;municipio1;0;rome
+Municipio II;municipio2;0;rome
+Municipio III;municipio3;0;rome
+Livorno;livorno;0;italia
