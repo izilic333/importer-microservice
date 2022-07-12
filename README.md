@@ -57,7 +57,7 @@ Here is some import actions from elastic search:
 
 ![My Image](/importer/img/elasticsearch_records.png)
 
-Here is example for some imported data:
+Here is an example of some imported data:
 
 ![My Image](/importer/img/imported_data.png)
 
