@@ -1,6 +1,4 @@
-# Application name: Importer
-
-Python microservice:
+# Python microservice: importer
 
 Project description:
 
